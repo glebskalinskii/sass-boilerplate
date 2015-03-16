@@ -48,7 +48,7 @@ SASS Starter kit
   + Gruntfile.js            # Grunt configuration & tasks
   + package.json            # Grunt metadata & dependencies
 ```
-
+```
 sass/ 
 | 
 |– base/ 
@@ -96,3 +96,4 @@ sass/
 | 
 | 
 `– main.scss             # primary Sass file `
+```
