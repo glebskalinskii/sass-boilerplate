@@ -81,7 +81,7 @@ Theme Rules aren't as often used within a project and because of that, they aren
 Contains all the CSS files from external libraries and frameworks. 
 
 ##Shout-out
-[SMACSS](https://smacss.com/)
-[Architecture for a Sass Project](http://www.sitepoint.com/architecture-sass-project/)
-[minamarkham/sassy-starter](https://github.com/minamarkham/sassy-starter)
-[Bits and pieces](http://en.wikipedia.org/wiki/Open_source)
+* [SMACSS](https://smacss.com/)
+* [Architecture for a Sass Project](http://www.sitepoint.com/architecture-sass-project/)
+* [minamarkham/sassy-starter](https://github.com/minamarkham/sassy-starter)
+* [Bits and pieces](http://en.wikipedia.org/wiki/Open_source)
