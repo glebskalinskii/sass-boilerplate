@@ -1,6 +1,12 @@
 # sass-architecture
 SASS Starter kit
 
+##Usage
+1. Clone repo
+2. Run ./cleanup.sh script to delet git related files and scrit itself
+
+##Folder tree
+
 ```
 scss/ 
 | 
