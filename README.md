@@ -61,8 +61,8 @@ scss/
 |   |– _jquery-ui.scss   # jQuery UI 
 |   ...                  # Etc… 
 | 
-+- _shame.scss           # because hacks happen
-+– main.scss             # primary Sass file `
+|– _shame.scss           # because hacks happen
+|– main.scss             # primary Sass file `
 ```
 
 ###Base
