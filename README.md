@@ -11,13 +11,13 @@ SASS Starter kit
 scss/ 
 | 
 |– base/ 
-|   |– _index.scss       # Imports for all base syles 
+|   |– _index.scss       # Imports for all base styles 
 |   |– _reset.scss       # Reset/normalize 
 |   |– _typography.scss  # Typography rules 
 |   ...                  # Etc… 
 | 
 |– utilities/ 
-|   |– _index.scss       # Imports for all helpers
+|   |– _index.scss       # Imports for all utils
 |   |– _variables.scss   # Sass Variables 
 |   |– _functions.scss   # Sass Functions 
 |   |– _mixins.scss      # Sass Mixins 
