@@ -28,7 +28,7 @@ scss/
 |   |– _index.scss       # Imports for all modules
 |   |– _buttons.scss     # Buttons 
 |	  |- _headings.scss    # Headings
-|	  |- _forms.scss    # Forms
+|	  |- _forms.scss       # Forms
 |   |– _carousel.scss    # Carousel 
 |   |– _cover.scss       # Cover 
 |   |– _dropdown.scss    # Dropdown 
