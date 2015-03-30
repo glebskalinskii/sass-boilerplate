@@ -69,7 +69,7 @@ scss/
 ###Base
 Includes Base rules, reset, normalize and typography. A Base rule is applied to an element using an element selector, a descendent selector, or a child selector, along with any pseudo-classes. It doesn’t include any class or ID selectors. It is defining the default styling for how that element should look in all occurrences on the page.
 
-###Helpers
+###Utilities
 The utilities/ folder gathers all Sass tools and helpers we’ll use across the project. Got a function? A mixin? Put it in there. This folder also contains a variables.scss file (sometimes config.scss) which holds all global variables for the project (for typography, color schemes, and so on).
 
 ###Modules
