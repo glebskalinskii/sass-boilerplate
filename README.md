@@ -1,4 +1,4 @@
-# sass-architecture
+# sass-boilerplate
 SASS Starter kit
 
 ##Usage
